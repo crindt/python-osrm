@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import numpy as np
-from polyline 
+import polyline 
 from polyline import encode as polyline_encode
 from pandas import DataFrame
 from . import RequestConfig
